@@ -1,4 +1,4 @@
-module github.com/itchyny/gojq
+module github.com/toininoi/gojq
 
 go 1.17
 
